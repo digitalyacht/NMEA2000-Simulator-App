@@ -1,4 +1,7 @@
 # NMEA2000 Simulator App
+
+![Screen Shot with iKreate USB Interface.](https://github.com/digitalyacht/NMEA2000-Simulator-App/blob/main/Screen%20Shots/iKreate+Simulate%20App.jpg?raw=true))
+
 Welcome to our NMEA2000 Simulator App repository. This simple but powerful web app, in conjunction with our iKreate USB interface, can simulate all PGNs or replay one of our raw NMEA2000 log files that all of our wireless NMEA2000 products can produce. 
 
 Written in HTML5, the app uses Web Serial APIs, to access the iKreate's USB Serial port at 230400 baud. The iKreate sits on the NMEA2000, without claiming a CAN address and then transmits whatever PGNs are sent to it by the App, with the SRC address specified. This means it can recreate exact NMEA2000 network configurations and not simply send all PGNs from one CAN address.

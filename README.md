@@ -1,6 +1,6 @@
 # NMEA2000 Simulator App
 
-![Screen Shot with iKreate USB Interface.](https://github.com/digitalyacht/NMEA2000-Simulator-App/blob/main/Screen%20Shots/iKreate+Simulate%20App.jpg?raw=true))
+![Screen Shot with iKreate USB Interface.](https://github.com/digitalyacht/NMEA2000-Simulator-App/blob/main/Screen%20Shots/iKreate+Simulate%20App.jpg?raw=true)
 
 Welcome to our NMEA2000 Simulator App repository. This simple but powerful web app, in conjunction with our iKreate USB interface, can simulate all PGNs or replay one of our raw NMEA2000 log files that all of our wireless NMEA2000 products can produce. 
 

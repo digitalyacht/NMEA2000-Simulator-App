@@ -1,0 +1,223 @@
+[
+  {
+    "pgnNum": "127250",
+    "uid": 1758040002000,
+    "simulatedSrc": "123",
+    "inputs": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    "variance": [
+      0,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "isSending": true,
+    "txRate": 100,
+    "timeLastSent": 1776767627590,
+    "nextTimeToSend": 0
+  },
+  {
+    "pgnNum": "127245",
+    "uid": 1758040051008,
+    "simulatedSrc": "20",
+    "inputs": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "variance": [
+      0,
+      0,
+      0,
+      0,
+      0.1,
+      0
+    ],
+    "isSending": true,
+    "txRate": 100,
+    "timeLastSent": 1776767627590,
+    "nextTimeToSend": 0
+  },
+  {
+    "pgnNum": "127488",
+    "uid": 1758040117814,
+    "simulatedSrc": "0",
+    "inputs": [
+      0,
+      1000,
+      2500,
+      60,
+      0
+    ],
+    "variance": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "isSending": true,
+    "txRate": 100,
+    "timeLastSent": 1776767627590,
+    "nextTimeToSend": 0
+  },
+  {
+    "pgnNum": "127489",
+    "uid": 1758040353195,
+    "simulatedSrc": "0",
+    "inputs": [
+      0,
+      1200,
+      3200,
+      36000,
+      1350,
+      900,
+      7200,
+      90,
+      120,
+      0,
+      0,
+      0,
+      28,
+      40
+    ],
+    "variance": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "isSending": true,
+    "txRate": 500,
+    "timeLastSent": 1776767627384,
+    "nextTimeToSend": 0
+  },
+  {
+    "pgnNum": "59904",
+    "uid": "59904-73220",
+    "simulatedSrc": 0,
+    "inputs": [
+      60928
+    ],
+    "variance": [
+      0
+    ],
+    "isSending": false,
+    "txRate": 0,
+    "timeLastSent": 0,
+    "nextTimeToSend": null
+  },
+  {
+    "pgnNum": "127501",
+    "uid": "127501-36595",
+    "simulatedSrc": "25",
+    "inputs": [
+      9,
+      1,
+      0,
+      1,
+      0,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "variance": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "isSending": false,
+    "txRate": 0,
+    "timeLastSent": 0,
+    "nextTimeToSend": null
+  },
+  {
+    "pgnNum": "128267",
+    "uid": "128267-72607",
+    "simulatedSrc": "3",
+    "inputs": [
+      255,
+      12345,
+      32767,
+      255
+    ],
+    "variance": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "isSending": true,
+    "txRate": 1000,
+    "timeLastSent": 1776767627444,
+    "nextTimeToSend": 0
+  }
+]
